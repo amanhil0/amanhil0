@@ -1,99 +1,71 @@
 <p align="center">
-  <img src="assets/chaos.gif" width="100%" alt="amanhil0.exe: I turn what the fuck into wait, it works. Animated neon terminal with a floating smiling face." />
+  <img src="assets/graveyard.gif" width="100%" alt="amanhil0 — an animated pixel graveyard with drifting fog, bats, flickering candles, a floating ghost, and a stone Jesus statue. Dead ideas. Live commits." />
 </p>
 
 <p align="center">
-  <a href="https://github.com/amanhil0?tab=repositories"><b>🧪 OPEN THE LAB</b></a>
-  &nbsp; × &nbsp;
-  <a href="mailto:amanhil0000@gmail.com"><b>📡 REPORT A SIGHTING</b></a>
-  &nbsp; × &nbsp;
-  <a href="https://github.com/amanhil0?tab=stars"><b>🛸 STOLEN FROM THE INTERNET*</b></a>
-  <br/><sub>*bookmarked. my lawyer said to clarify.</sub>
-</p>
-
-<h2 align="center">Aman Raj. Full-time human. Part-time syntax error.</h2>
-<p align="center"><b>“Tomorrow I'll build something.”</b><br/>— me, several tomorrows ago</p>
-
-<p align="center">
-  <img src="assets/quotes.gif" width="100%" alt="Rotating developer jokes: My code works. I would also like to know why. CSS is easy, said the div from another continent. We are shipping my machine." />
+  <a href="https://github.com/amanhil0?tab=repositories">ENTER THE CRYPT</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/amanhil0?tab=stars">UNEARTHED RELICS</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:amanhil0000@gmail.com">SUMMON ME</a>
 </p>
 
 <p align="center">
-  <img src="assets/skills.png" width="100%" alt="Skills: Python, C, Java, CSS, JavaScript, HTML, React, Git. Eight tools, same chaos." />
+  <b>Aman Raj</b><br/>
+  <sub>Writing code. Raising exceptions. Occasionally raising the dead.</sub>
 </p>
 
-<h2 align="center">🧠 BRAIN: 47 TABS OPEN. ONE IS PLAYING MUSIC.</h2>
+<p align="center">
+  <img src="assets/epitaphs.gif" width="100%" alt="Animated developer epitaphs: Here lies a bug. It will be back next release. Rest in peace, localhost. It worked here. I buried the bug. Git remembers where." />
+</p>
 
-```javascript
-const aman = {
-  languages: ["Python", "C", "Java", "JavaScript"],
-  frontend:  ["HTML", "CSS", "React"],
-  timeMachine: "Git",
-  sleep: undefined,
-  debugging: "negotiating with a machine I personally confused",
-  nextBigThing: () => "give me one more tomorrow"
-};
-```
+<p align="center">
+  <img src="assets/pixel-skills.png" width="100%" alt="The relics: Python, C, Java, CSS, JavaScript, HTML, React, and Git, engraved on pixel tombstones." />
+</p>
 
-<h2 align="center">🧪 THINGS THAT ESCAPED localhost</h2>
+<p align="center">
+  <a href="https://github.com/amanhil0?tab=overview">
+    <img src="assets/contribution-graveyard.gif" width="100%" alt="The commit cemetery: an animated version of my real public GitHub contribution calendar. Tile colors show contribution levels; the wandering ghost is decorative." />
+  </a>
+  <br/><sub>Real contributions. Restless spirits. Refreshed daily.</sub>
+</p>
+
+<h3 align="center">Unearthed from the crypt</h3>
 
 <p align="center">
   <a href="https://github.com/amanhil0/HICIS"><b>HICIS ↗</b></a>
   &nbsp; / &nbsp;
   <a href="https://github.com/amanhil0/nitin"><b>nitin ↗</b></a>
   &nbsp; / &nbsp;
-  <a href="https://github.com/amanhil0?tab=repositories"><b>THE ENTIRE CRIME SCENE ↗</b></a>
+  <a href="https://github.com/amanhil0?tab=repositories"><b>ALL REPOSITORIES ↗</b></a>
+  <br/><br/>
+  <i>“My side projects aren't abandoned. They're in the afterlife.”</i>
 </p>
 
-<p align="center"><i>“Every repository starts with ambition and a suspiciously empty README.”</i></p>
-
 <details>
-<summary><b>🔴 DO NOT PRESS THIS. YOU HAVE A PERFECTLY GOOD LIFE.</b></summary>
+<summary><b>＋ Disturb the commit graveyard</b></summary>
 
 <br/>
 
 ```text
-> running personality.exe
+R.I.P.  "final fix"
+        "final fix 2"
+        "this one actually works"
+        "revert that"
+        "please"
 
-[OK] can write code
-[OK] can break code
-[OK] can write code that breaks other code
-[??] can explain why it worked yesterday
-
-FATAL: task completed successfully. this feels suspicious.
+Cause of death: one missing semicolon.
+Last words:     "it worked yesterday."
 ```
 
-**You clicked a button explicitly telling you not to.**
-
-Welcome to quality assurance. You start Monday.
-
-</details>
-
-<details>
-<summary><b>🪦 OPEN THE COMMIT GRAVEYARD</b></summary>
-
-<br/>
-
-```text
-fix
-fix fix
-actual fix
-final fix
-final fix 2
-PLEASE
-revert "PLEASE"
-it was a missing semicolon
-```
-
-*Eight stages of grief. One line changed.*
+*Nothing stays buried when you have version control.*
 
 </details>
 
 <p align="center">
   <br/>
-  <b>“If you think this profile is weird, you should see the commit history.”</b><br/><br/>
-  <a href="mailto:amanhil0000@gmail.com">Got a ridiculous idea? Excellent. Send it.</a><br/>
-  <sub>© amanhil0 · powered by curiosity and the audacity to click Run again</sub>
+  <code>REST. RESPAWN. REPEAT.</code><br/>
+  <sub>If the code is haunted, that's a feature.</sub>
 </p>
 
-<!-- Secret achievement unlocked: reading the source of someone's personality. -->
+<!-- Secret room unlocked. The ghost has been expecting you. -->
